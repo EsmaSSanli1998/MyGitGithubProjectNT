@@ -12,6 +12,9 @@ public class AtmProject {
         System.out.println("esma branch kodlarını yazdı");
         //version esma1
 
+        System.out.println("Bir kısım kodlar");
+        //esma2
+
     }
 
 
