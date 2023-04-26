@@ -15,6 +15,9 @@ public class AtmProject {
         System.out.println("Bir kısım kodlar");
         //esma2
 
+        System.out.println();
+        //esma3
+
     }
 
 
