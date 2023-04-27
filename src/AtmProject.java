@@ -19,6 +19,8 @@ public class AtmProject {
         //esma3
         System.out.println();
         //localde değişiklik yaptım
+        //remotede değişiklik yaptım
+        
 
     }
 
